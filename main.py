@@ -1,4 +1,4 @@
-# Author: pythonoob (@iamnxtarxbxt)
+# Author: pythonoob (@klassrabota)
 import requests
 import sys
 class Exploit:
